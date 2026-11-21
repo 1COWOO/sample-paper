@@ -1,0 +1,9 @@
+name: sample
+prefix: Sample
+version: '${version}'
+
+main: io.qzz.kowoo.sample.Sample
+api-version: '1.21.8'
+load: STARTUP
+
+authors: [ kowoo ]
